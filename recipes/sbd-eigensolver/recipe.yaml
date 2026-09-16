@@ -115,3 +115,4 @@ extra:
   feedstock-name: sbd-eigensolver-python
   recipe-maintainers:
     - garrison
+    - hfwen0502
